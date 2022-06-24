@@ -5,3 +5,4 @@ ls -l - list files and directories in long format
 ls -la - list hidden files in long format
 ls -lan - list hidden files long format with group and user ids
 mkdir <path> - make a directory in the given path
+mv filepath newpath - move file from one path to another
