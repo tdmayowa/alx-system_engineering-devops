@@ -11,3 +11,4 @@ rmdir dirpath - delete directory
 cd - - go back to previous path
 ls . .. - list files and directories in current and previous path
 file filepath - print type of file
+ln filepath symlinkpath - create symbolic link
