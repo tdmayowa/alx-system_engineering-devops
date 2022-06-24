@@ -13,3 +13,4 @@ ls . .. - list files and directories in current and previous path
 file filepath - print type of file
 ln -s filepath symlinkpath - create symbolic link
 cp -u, --update - copy only files that doesn't exist in destination already
+cp ./[[:upper:]]* ../ - copy all files starting with capital letter
