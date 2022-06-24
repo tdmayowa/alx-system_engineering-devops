@@ -1,1 +1,2 @@
-writing the absolute path name of the current working directory
+pwd - to print curent working directory
+ls - to list files and directories in a path
