@@ -9,3 +9,4 @@ mv filepath newpath - move file from one path to another
 rm filepath - delete file
 rmdir dirpath - delete directory
 cd - - go back to previous path
+ls . .. - list files and directories in current and previous path
