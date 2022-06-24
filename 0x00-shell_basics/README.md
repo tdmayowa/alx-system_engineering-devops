@@ -8,4 +8,4 @@ mkdir <path> - make a directory in the given path
 mv filepath newpath - move file from one path to another
 rm filepath - delete file
 rmdir dirpath - delete directory
-cd .. - go back to previous path
+cd - - go back to previous path
