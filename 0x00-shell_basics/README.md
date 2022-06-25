@@ -21,3 +21,4 @@ ls -mpa - write a command that lists all the files and directories of the curren
 m - comma seperated and sort alphabetically
 p - dash in front of directory name
 a - show hidden files
+
